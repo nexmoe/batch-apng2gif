@@ -10,6 +10,8 @@
   "author": "Nexmoe",
   "license": "MIT",
   "dependencies": {
-    "apng2gif": "^1.7.0"
+    "adm-zip": "^0.5.10",
+    "apng2gif": "^1.7.0",
+    "request": "^2.88.2"
   }
 }
